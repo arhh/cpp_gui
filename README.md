@@ -7,8 +7,10 @@
 
 ### Steps
 Repeat as you develop
-1. `cd build`
-2. `cmake --build .`
+1. `mkdir build`
+2. `cd build`
+3. `cmake ..`
+4. `cmake --build .`
 
 ## How to Run
 `./WCCreate`
